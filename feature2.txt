@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 feature2 mod local
+=======
+feature2 modified on server
+>>>>>>> 8b71132c171c7456602bcf1b250a2a5f23400a6c
